@@ -197,23 +197,8 @@ npm run test
 ![Dashboard](./screenshots//dashboard.png)
 
 ## Source Credits :
-Original Source Code : [Click Here](https://github.com/raphaelalmeidamartins/fullstack-bank)
-<br>
+
 Tutorial Reference : [Click Here](https://www.youtube.com/watch?v=DIl2VcqZVdY&list=PLAdTNzDIZj_9C6qKZ3wE8t97OXqUZkzpB)
 
-## Feedback
-
-Your feedback is valuable! If you have suggestions for improving existing content or ideas for new additions, please open an issue or reach out to the repository maintainers. If you have any other feedbacks, you can reach out to us at harsh.thakkar0369@gmail.com
-
-
-## Connect with Me
-<p>
-
- <a href="https://twitter.com/HarshThakkar971" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/vector-new-twitter-x-white-logo-black-background_744381-866.jpg" alt="HarshThakkar971" height="40" width="50" /></a>
-  &nbsp;&nbsp;
-  	<a href="https://linkedin.com/in/harsh-thakkar-7764bb1a4" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="harsh-thakkar-7764bb1a4" height="40" width="40" /></a>
-  &nbsp;&nbsp;
- <a href="https://instagram.com/harsh_thakkar09" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="harsh_thakkar09" height="40" width="40" /></a>
-</p>
 
 
